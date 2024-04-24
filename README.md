@@ -1,6 +1,7 @@
 # Apache spark
 
-## setting environment
+## Tetting environment
+##  Language: Python.
 ### Labrary: request, beautifulSoup, pysparkm findspark, tkinter.
 
 ### Data of project after crawl wil be save in file C#_developer_job.csv:
