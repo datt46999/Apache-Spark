@@ -5,7 +5,8 @@
 ### Labrary: request, beautifulSoup, pysparkm findspark, tkinter.
 
 ### Data of project after crawl wil be save in file C#_developer_job.csv:
-
+link file C#_developer_job.csv and data after duplicate:
+https://drive.google.com/drive/folders/1Ydoy7eZrJIKDwH8CjdTKJ9sOkKCeK_LD
 ## Result
 ![image](https://github.com/datt46999/Apache-Spark/assets/125117718/38f80ab4-bbef-459d-84b4-4dedc98b71f8)
 
