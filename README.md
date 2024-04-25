@@ -16,7 +16,7 @@ https://drive.google.com/drive/folders/1Ydoy7eZrJIKDwH8CjdTKJ9sOkKCeK_LD
 ## Settting and run code
 + Step 1: DownLoad folder.
 + Step 2: Open environmet can run code.
-+ Step 3: run file main.py
++ Step 3: Run file main.py
 ## Result
 
 ![image](https://github.com/datt46999/Apache-Spark/assets/125117718/38f80ab4-bbef-459d-84b4-4dedc98b71f8)
