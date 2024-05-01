@@ -2,6 +2,11 @@
 
 # Apache Spark Project
 
+# Description:
+Using Spark architecture to support process of big data. After
+ crawling data from website we continue to duplicate data up 100 million and
+ connect physical many devices to show big data in the minimum time.
+ 
 ## Setting environment
 ### Language: Python.
 ### Library: request, beautifulSoup, pysparkm findspark, tkinter.
